@@ -7,6 +7,7 @@
 
 📫 How to reach me:
 https://www.linkedin.com/in/jaydee-nguyen/
+
 jdeenguyen@gmail.com
 
 <!--

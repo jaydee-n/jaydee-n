@@ -1,9 +1,13 @@
 ## Hi! I'm Jaydee 😄
 🖥️ I'm currently a junior undergrad at CSULB, majoring in Computer Science.
 
-💭 I'm currently working on a deep-learning, computer vision model regarding public surveillance under Qualcomm, through a collaboration with Break Through Tech AI at UCLA!
+💭 I recently finished working on a deep-learning, computer vision model regarding public surveillance under Qualcomm, through a collaboration with Break Through Tech AI at UCLA!
 
-💡 I'm passionate about how artifical intelligence intersects with other fields of computer science, especially security and cybersecurity. I'm also deeply interested in data science and machine learning.
+💡 I'm deeply passionate in machine learning models and applied AI.
+
+📫 How to reach me:
+      https://www.linkedin.com/in/jaydee-nguyen/
+      jdeenguyen@gmail.com
 
 <!--
 **jaydee-n/jaydee-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

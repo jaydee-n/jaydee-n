@@ -6,8 +6,8 @@
 💡 I'm deeply passionate in machine learning models and applied AI.
 
 📫 How to reach me:
-      https://www.linkedin.com/in/jaydee-nguyen/
-      jdeenguyen@gmail.com
+https://www.linkedin.com/in/jaydee-nguyen/
+jdeenguyen@gmail.com
 
 <!--
 **jaydee-n/jaydee-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

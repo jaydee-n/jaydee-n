@@ -1,11 +1,7 @@
 ## Hi! I'm Jaydee 😄
-🖥️ I'm currently a junior undergrad at CSULB, majoring in Computer Science.
-
-💭 I recently finished working on a deep-learning, computer vision model regarding public surveillance under Qualcomm, through a collaboration with Break Through Tech AI at UCLA!
-
 💡 I'm deeply passionate in machine learning models and applied AI.
 
-📫 How to reach me:
+📫 How to reach or learn more about me:
 
 https://www.linkedin.com/in/jaydee-nguyen/
 
